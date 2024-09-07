@@ -1,0 +1,3 @@
+/Users/yossilevi/projects/TzikInvest/cmake-build-debug/CMakeFiles/TzikInvest.dir
+/Users/yossilevi/projects/TzikInvest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yossilevi/projects/TzikInvest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
